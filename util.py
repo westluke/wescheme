@@ -7,7 +7,7 @@ import time
 PROD = True
 LOCAL = False
 
-BASE_62_CHARS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ";
+BASE_62_CHARS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 KEY_FILE = "secretkey"
 GMAIL_EXT = "@gmail.com"
 KEY_LENGTH = 10
